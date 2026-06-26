@@ -140,29 +140,4 @@ Building immersive games with Unreal Engine 5 while crafting modern web experien
 
 </table>
 
----
 
-
-
-
-<h3 align="center">
-🔥 GitHub Streak
-</h3>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
-
-
-
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:1f6feb&section=footer"/>
-
-</p>
